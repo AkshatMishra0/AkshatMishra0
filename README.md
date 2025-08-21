@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM AI Project and Hackathon's<br><br>🌱 I’m currently learning Ai/Ml<br><br>📫 How to reach me akshatmishraop@gmail.com
+🔭 I’m currently working on AI Project and Hackathon's<br><br>🌱 I’m currently learning Ai/Ml<br><br>📫 How to reach me akshatmishraop@gmail.com
 
 
 ## 🌐 Socials:
