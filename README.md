@@ -1,23 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-<picture><img src = "./github-header-image.png" width = 100%></picture>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ambastha;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-I'm a school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
-
-
-
-### <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> *Languages and Tools🧰*
-
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,react,tailwind,scss,vite,nextjs,vscode,jupyter,googlecolab,anaconda,npm,nodejs,mongo,mysql,express,bootstrap,git,github,githubpages,vercel,netlify,render,streamlit,postman)](https://github.com/LelouchFR/skill-icons)
-
-<br />
-
-#
-
-## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
 
 # 💫 About Me:
 🔭 I’m currently working on AI modal<br>🌱 I’m currently learning AI/ML<br>📫 How to reach me akshatmishraop@gmail.com
