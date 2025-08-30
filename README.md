@@ -81,9 +81,10 @@
 
 ---
 
-## 👀 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshatMishra0&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+## 👀 Visitor Count  
+<div align="center">
+  <p><b>Visitor Count</b></p>  
+  <img src="https://profile-counter.glitch.me/AkshatMishra0/count.svg" />
+</div>
