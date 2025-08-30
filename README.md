@@ -66,11 +66,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatMishra0&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true" width="95%"/>
 </p>
-
----
 <h4>I'm always working on interesting projects. Stay tuned for updates!</h4>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 <br><br>
+
+---
+
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
