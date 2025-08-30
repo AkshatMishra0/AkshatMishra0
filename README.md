@@ -5,7 +5,7 @@
 
 ---
 
-# 💫 About Me  
+## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me* 
 - 🔭 I’m currently working on an **AI Model (DerivityAI Project)**  
 - 🌱 I’m currently learning **AI/ML & Full Stack Development**  
 - 📫 Reach me at **akshatmishraop@gmail.com**  
