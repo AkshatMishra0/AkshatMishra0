@@ -6,6 +6,7 @@
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50px"> About Me
+
 - 🔭 I’m currently working on an **AI Model (DerivityAI Project)**  
 - 🌱 I’m currently learning **AI/ML & Full Stack Development**  
 - 📫 Reach me at **akshatmishraop@gmail.com**  
