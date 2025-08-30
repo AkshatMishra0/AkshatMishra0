@@ -20,7 +20,6 @@
 
 ---
 
-
 ## 💻 Tech Stack  
 
 ### 🚀 Languages & Core  
@@ -41,6 +40,7 @@
 ### 🎨 Tools & Design  
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
 
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -63,9 +63,17 @@
 
 ---
 
-<div align="center">
-  <p><b>Visitor Count</b></p>  
-  <img src="https://profile-counter.glitch.me/{AkshatMishra0}/count.svg" />
-</div>
+## 🌟 Support Me  
+<p align="center">
+  If you like my work, consider giving my repositories a ⭐ <br/>
+  It really motivates me to keep building cool projects! 🚀  
+</p>
+
+---
+
+## 👀 Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatMishra0&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
