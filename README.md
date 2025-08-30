@@ -84,7 +84,12 @@
 ---
 
 ## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshatMishra0&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
+<div align="center">
+  <p align="centre"><b>Visitors Count</b></p>  
+  <a href="https://github.com/Sudhanshu-Ambastha"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/></a>
+  <br>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p> 
+  <br>
+  <a href="https://info.flagcounter.com/Q0gH"><img src="https://s11.flagcounter.com/count2/Q0gH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- counting from 21/04/24 -->
+</div>
