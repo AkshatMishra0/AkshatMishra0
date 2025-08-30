@@ -23,9 +23,24 @@
 
 ## 💻 Tech Stack  
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,cpp,java,react,nextjs,tailwind,bootstrap,scss,vite,flutter,nodejs,express,django,mongodb,mysql,sqlite,anaconda,jupyter,googlecolab,streamlit,postman,git,github,githubpages,vercel,netlify,render,vscode,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
+### 🚀 Languages & Core  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,js,ts,html,css,scss)](https://github.com/LelouchFR/skill-icons)
 
----
+### 🎨 Frontend  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,vite,flutter)](https://github.com/LelouchFR/skill-icons)
+
+### ⚙️ Backend & Cloud  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,vercel,netlify,render,githubpages)](https://github.com/LelouchFR/skill-icons)
+
+### 🧠 AI / ML & Data  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,googlecolab,anaconda,streamlit)](https://github.com/LelouchFR/skill-icons)
+
+### 🛠️ Databases  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,sqlite)](https://github.com/LelouchFR/skill-icons)
+
+### 🎨 Tools & Design  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
+
 
 ## 📊 GitHub Stats  
 <p align="center">
