@@ -100,4 +100,6 @@
   </p> 
   <br>
 
- 
+ <h1 align="center">Show some 💗 by 🌟 some of the repositories!</h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
