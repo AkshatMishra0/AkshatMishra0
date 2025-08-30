@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me  
-- 🔭 I’m currently working on an **AI Model (VelinX Project)**  
+- 🔭 I’m currently working on an **AI Model (DerivityAI Project)**  
 - 🌱 I’m currently learning **AI/ML & Full Stack Development**  
 - 📫 Reach me at **akshatmishraop@gmail.com**  
 
