@@ -20,7 +20,6 @@
 
 ---
 
-## 💻 Tech Stack  
 
 ## 💻 Tech Stack  
 
