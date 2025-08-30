@@ -12,14 +12,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat_bruhh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AkshatMishra) 
-[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatmishraop@gmail.com)
-
----
-
 ## 💻 Tech Stack  
 
 ### 🚀 Languages & Core  
@@ -39,6 +31,24 @@
 
 ### 🎨 Tools & Design  
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/akshat_bruhh">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height="50"/>
+  </a>
+  <a href="https://linkedin.com/in/AkshatMishra">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="https://x.com/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height="50"/>
+  </a>
+  <a href="mailto:akshatmishraop@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="50"/>
+  </a>
+</p>
 
 ---
 
