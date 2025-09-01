@@ -30,7 +30,7 @@
 ### 🛠️ Databases  
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,sqlite)](https://github.com/LelouchFR/skill-icons)
 
-### 🎨 Tools & Design  
+### 🎨 Tools & Design    
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
 
 ---
