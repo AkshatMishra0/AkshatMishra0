@@ -11,47 +11,6 @@
 - 🌱 I’m currently learning **AI/ML & Full Stack Development**  
 - 📫 Reach me at **akshatmishraop@gmail.com**        
   
----
- 
-### <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> *Languages and Tools🧰*
-
-### 🚀 Languages & Core  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,js,ts,html,css,scss)](https://github.com/LelouchFR/skill-icons) 
-
-### 🎨 Frontend  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,vite,flutter)](https://github.com/LelouchFR/skill-icons)
-
-### ⚙️ Backend & Cloud  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,vercel,netlify,render,githubpages)](https://github.com/LelouchFR/skill-icons)
-
-### 🧠 AI / ML & Data  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,googlecolab,anaconda,streamlit)](https://github.com/LelouchFR/skill-icons)
-
-### 🛠️ Databases  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,sqlite)](https://github.com/LelouchFR/skill-icons)
-
-### 🎨 Tools & Design    
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,photoshop,illustrator,blender)](https://github.com/LelouchFR/skill-icons)
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://instagram.com/akshat_bruhh">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height="50"/>
-  </a>
-  <a href="https://linkedin.com/in/AkshatMishra">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="https://x.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height="50"/>
-  </a>
-  <a href="mailto:akshatmishraop@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="50"/>
-  </a>
-</p>
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkshatMishra0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
