@@ -41,11 +41,7 @@
   </a>
   <br>
 
-  <!-- Visitor Badge Alternative -->
-  <p align="center">
-    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=AkshatMishra0.AkshatMishra0" alt="Visitor Count"/>
-  </p> 
-  <br>
+
 
  <h1 align="center">Show some 💗 by 🌟 some of the repositories!</h1>
 
