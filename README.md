@@ -3,8 +3,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Akshat+Mishra;AI/ML+Learner+%7C+Tech+Enthusiast;Passionate+about+Coding+and+Innovation;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/AkshatMishra0DenverCoder1)](https://git.io/streak-stats)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkshatMishra0&theme=discord-old-blurple&hide_border=true&background=000000" alt="GitHub Streak" /></a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
