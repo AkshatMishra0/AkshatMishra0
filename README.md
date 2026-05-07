@@ -3,11 +3,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Akshat+Mishra;AI/ML+Learner+%7C+Tech+Enthusiast;Passionate+about+Coding+and+Innovation;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AkshatMishra0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AkshatMishra0&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkshatMishra0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?AkshatMishra0=DenverCoder1)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
