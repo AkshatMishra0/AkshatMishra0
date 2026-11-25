@@ -12,7 +12,7 @@
   <p align="center"><b>Visitors Count</b></p>  
   <!-- GetLoli Counter -->
   <a href="https://github.com/AkshatMishra0">
-    <img src="https://count.getloli.com/get/@:AkshatMishra0?theme=rule34" width="50%"/>
+    <img src="https://count.getloli.com/get/@:AkshatMishra0?theme=rule34" width="50%"/> 
   </a>
   <br>
 
